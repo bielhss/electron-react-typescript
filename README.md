@@ -32,9 +32,6 @@ yarn dev
 
 yarn package
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Teste Prático
 
